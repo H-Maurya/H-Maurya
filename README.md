@@ -20,7 +20,7 @@ ___
 <br>
 
 [![](https://github-readme-stats.vercel.app/api?username=H-Maurya&?count_private=true&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Maurya&hide=css,html&langs_count=4&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Maurya&hide=css,html&langs_count=4&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
 ##### Technologies I have used

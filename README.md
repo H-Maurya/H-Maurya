@@ -13,18 +13,15 @@ ___
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Maurya&hide=css,html&langs_count=4&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-___
+[![alt-text-1]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Maurya&hide=css,html&langs_count=4&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
-[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Maurya&?count_private=true&hide=issues&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![alt-text-2]![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Maurya&?count_private=true&hide=issues&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ___
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Maurya.H-Maurya)
 
 
-
-
+-   You can reach me with the links below
 [![Twitter](https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Karan21)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karn212000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karn21/)

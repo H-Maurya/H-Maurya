@@ -13,10 +13,10 @@ ___
 
 <br>
 
-[![alt-text-1]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Maurya&hide=css,html&langs_count=4&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![alt-text-1]!(https://github-readme-stats.vercel.app/api/top-langs/?username=H-Maurya&hide=css,html&langs_count=4&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![alt-text-2]![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Maurya&?count_private=true&hide=issues&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![alt-text-2]!(https://github-readme-stats.vercel.app/api?username=H-Maurya&?count_private=true&hide=issues&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ___
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Maurya.H-Maurya)
 

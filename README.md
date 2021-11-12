@@ -13,7 +13,7 @@ H-Maurya/H-Maurya is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ___
-[![Harshit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=H-Maurya&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harshit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=H-Maurya&line=24292e&point=24292e&area=true&hide_border=true&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ___
 

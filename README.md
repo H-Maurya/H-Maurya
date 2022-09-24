@@ -19,7 +19,7 @@ ___
 [![](https://github-readme-stats.vercel.app/api?username=H-Maurya&?count_private=true&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Maurya&hide=css,html&langs_count=4&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My activity graph](https://activity-graph.herokuapp.com/graph?username=H-Maurya&theme=github&custom_title=My%20activity%20graph)
 ___
 
 ##### Technologies I have used
@@ -27,6 +27,7 @@ ___
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)

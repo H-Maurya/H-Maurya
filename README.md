@@ -20,8 +20,8 @@ ___
 [![](https://github-readme-stats.vercel.app/api?username=H-Maurya&?count_private=true&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
-![My activity graph](https://activity-graph.herokuapp.com/graph?username=H-Maurya&theme=github&custom_title=My%20activity%20graph)
-___
+<!-- ![My activity graph](https://activity-graph.herokuapp.com/graph?username=H-Maurya&theme=github&custom_title=My%20activity%20graph) -->
+<!-- ___ -->
 
 ##### Technologies I have used
 
